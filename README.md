@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In Pakistan, Societies business booming exponentially. But, to run the business successfully, without a proper solution is close to impossible. Existing systems in the market are either too expensive or do not meet the requirements. <br>
+In India, Societies business booming exponentially. But, to run the business successfully, without a proper solution is close to impossible. Existing systems in the market are either too expensive or do not meet the requirements. <br>
 
 **Housing Society Management System** is a **CRUD-based** (Create, Read, Update, Delete) project with **attractive interfaces** used to provide guidance to the customers to choose plots according to their needs. <b>HSMS</b> uses **File Handling** to manipulate data and perform the CRUD operations. It is a group project made using **Java Object-Oriented programming** having both **customer** and **Admin** sides. This project also helps their admins for adding, searching, updating and deleting plots. It is time to take advantage of the technology for a better and peaceful living. <br>
 
@@ -99,9 +99,6 @@ The customer can perform the following tasks with his profile.
 **Paradigm**: Object-Oriented Programming. <br>
 **IDE’s**: Eclipse, IntelliJ. <br>
 
-### Developers
-- <a href="https://daoudhussain.tech/"> Daoud Hussain </a>
-- <a href="https://github.com/Muneeb-juttt"> Muneeb Ishaq </a>
 
  **💬 All the project is fully Open-Sourced. Show some love by giving it a STAR🌟.**
  
